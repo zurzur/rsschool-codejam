@@ -4,6 +4,23 @@
     "test": "mocha test.js"
   },
   "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
     "mocha": "^5.0.1"
-  }
+  },
+  "description": "rsschool",
+  "version": "1.0.0",
+  "main": "make.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zurzur/rsschool-codejam.git"
+  },
+  "author": "zurzur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zurzur/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/zurzur/rsschool-codejam#readme"
 }
