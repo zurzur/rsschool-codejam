@@ -11,7 +11,7 @@
   },
   "description": "rsschool",
   "version": "1.0.0",
-  "main": "make.js",
+  "main": "./src/sumOfOther.js",
   "dependencies": {},
   "repository": {
     "type": "git",
